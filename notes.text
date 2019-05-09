@@ -1,0 +1,17 @@
+cd = change directory
+dir = directory listing
+TAB = Auto-completion
+arrow up/ down = list history of command
+CTRL + / = comment out lines of code
+
+to create array, use []
+to create object, use {}
+
+shift = remove obj from front
+unshift = add obj in front
+
+pop = remove abj from back
+push = add obj to the back
+
+splice =  add obj to any location,
+          remove obj from any location
